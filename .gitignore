@@ -1,0 +1,8 @@
+# Windows / WSL artifacts
+*:Zone.Identifier
+
+# Claude Code workspace
+.claude/
+
+# Chinese PDF — exceeds GitHub 100MB file size limit
+计算机程序的构造和解释*.pdf
