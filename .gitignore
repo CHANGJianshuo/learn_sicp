@@ -6,3 +6,6 @@
 
 # Chinese PDF — exceeds GitHub 100MB file size limit
 计算机程序的构造和解释*.pdf
+
+# Jupyter auto-generated checkpoints
+.ipynb_checkpoints/
